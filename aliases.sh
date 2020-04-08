@@ -10,7 +10,7 @@ alias kdd="kubectl describe deployment"
 alias kds="kubectl describe service"
 alias kdrs="kubectl describe rs"
 alias kdn="kubectl describe node"
-alias krp="kubectl run --generator=run-pod/v1”
+alias krp="kubectl run --generator=run-pod/v1"
 alias kgc="kubectl get componentstatuses"
 alias kctx="kubectl config current-context"
 alias kcon="kubectl config use-context"
