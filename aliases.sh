@@ -1,5 +1,6 @@
 # k8s aliases
 alias k="kubectl"
+alias kga="kubectl get all -o wide"
 alias kn="kubectl get nodes -o wide"
 alias kp="kubectl get pods -o wide"
 alias kd="kubectl get deployment -o wide"
